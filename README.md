@@ -103,7 +103,7 @@ To test how the script performs under load or in a production environment, you c
 2. Simulate frequent file changes.
 3. Measure the script's performance using tools like `time`, `top`, or `htop`.
 
-For a detailed guide on performance testing, see the section on [Testing the Performance](#testing-the-performance) in the documentation.
+Still in the works
 
 ## Troubleshooting
 
